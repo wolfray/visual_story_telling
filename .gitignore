@@ -1,0 +1,10 @@
+#data related files
+*.p
+*pkl
+
+#unrelated files
+*.pyc
+*.swp
+
+#configuration files
+config
