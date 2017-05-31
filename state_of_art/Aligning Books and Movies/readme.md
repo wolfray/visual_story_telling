@@ -21,18 +21,6 @@ They used movie description dataset from <a href="http://www.cv-foundation.org/o
 
 **Expermental Dataset**: [BookCorpus dataset](http://yknzhu.wixsite.com/mbweb), [MovieBook Dataset](http://yknzhu.wixsite.com/mbweb)
 
-**Statistics for the MovieBook Dataset**: 
-
-<p align="center">
-  <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/b91f22e28f856ac0e2496fd9389ff5ec669d8cfd/2-Table1-1.png"/>
-<p align="center">
-
-**Experimental Results**: 
-
-<p align="center">
-  <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/b91f22e28f856ac0e2496fd9389ff5ec669d8cfd/8-Table4-1.png"/>
-<p align="center">
-
 **More details on this work**: [Project Page](http://yknzhu.wixsite.com/mbweb), [Extended Version of the Paper](http://www.cs.toronto.edu/~zemel/documents/align.pdf)
 
 **Bibliography**
